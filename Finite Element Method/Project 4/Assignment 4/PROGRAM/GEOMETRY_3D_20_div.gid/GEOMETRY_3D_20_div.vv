@@ -1,0 +1,37 @@
+BeginZE D:/HDD_Data/Iván/Workload/Q7-GRETA/Aerospace Computational Engineering/Assigments/Assigment_3_Elastostatic/PROGRAM/GEOMETRY_3D_20_div.gid/GEOMETRY_3D_20_div.vv
+   x -0.778077304363250732 2.95477700233459473
+   y 1.34608781337738037 -0.707100868225097656
+   z -3.19162464141845703 3.44162464141845703
+   e 1.10554158687591553
+   v -0.770378283542346387 0.391793778363296263 -0.313767918519222477
+   r 0.393147114576254286
+   m 0.496094644069671631 -0.356944918632507324 0.791505157947540283 0 -0.850372731685638428 -0.383866012096405029 0.359879374504089355 0 0.175374791026115417 -0.851608633995056152 -0.493970125913619995 0 0 0 0 1
+   c 1 0.125 -0.125
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 1
+   DrawingType 1
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 1
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE D:/HDD_Data/Iván/Workload/Q7-GRETA/Aerospace Computational Engineering/Assigments/Assigment_3_Elastostatic/PROGRAM/GEOMETRY_3D_20_div.gid/GEOMETRY_3D_20_div.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+

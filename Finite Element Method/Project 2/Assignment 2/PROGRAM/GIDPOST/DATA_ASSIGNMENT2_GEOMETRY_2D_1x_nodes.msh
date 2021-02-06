@@ -1,0 +1,17 @@
+ # ================================================== 
+ # 
+ # POSTPROCESSING WITH GID - MESH FILE 
+ # EXAMPLE NAME: DATA_ASSIGNMENT2 
+ # ================================================== 
+ MESH "DATA_ASSIGNMENT2" dimension 2 Elemtype Quadrilateral Nnode 4
+ Coordinates 
+ # node number   coordinate_x  coordinate_y  coordinate_z 
+          1     0.00000e+00    0.00000e+00
+          2     0.00000e+00    1.00000e+00
+          3     2.00000e+00    5.00000e-01
+          4     2.00000e+00    1.00000e+00
+ end coordinates 
+ Elements 
+ # element  node_1 node_2 node_3 node_4 material number 
+         1       3      4      2      1        1 
+ end elements 

@@ -1,0 +1,21 @@
+MESH dimension 3 ElemType Quadrilateral Nnode 4
+Coordinates
+    1               0               0               0
+    2               0               1               0
+    3               2             0.5               0
+    4               2               1               0
+End Coordinates
+
+Elements
+1 3 4 2 1 1
+End Elements
+MESH dimension 3 ElemType Linear Nnode 2
+Coordinates
+End Coordinates
+
+Elements
+2 1 3
+3 2 1
+4 3 4
+5 4 2
+End Elements
