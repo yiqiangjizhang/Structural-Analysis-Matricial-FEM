@@ -1,1 +1,2 @@
 *.rescript -linguist-detectable
+.m linguist-language=Matlab
